@@ -1,1 +1,0 @@
-A file to demonstrate how renaming works. 
